@@ -1,16 +1,30 @@
-# custom_range_slider
+# Custom Range Slider
 
-A new Flutter project.
+A demo for showing how to create a range slider with icon as thumb and you can change the shape as well,because the canvas is available as a property check the documentation for more details.
 
-## Getting Started
+## Topics Covered
 
-This project is a starting point for a Flutter application.
+* **RangeSliderThumbShape**<br/>
+The shape and icon/text can be put into the thumb of the rangeSlider by creating own custom Shape by extending RangeSliderThumbShape class which provides the functionality to modify the thumb shape.Check the following links :</br>
+https://stackoverflow.com/questions/57922017/flutter-how-to-paint-an-icon-on-canvas
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots of the application 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p>
+<img src="https://github.com/AmanNegi/CustomRangeSlider/blob/master/screenshot/main.jpg" width="400" />
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Plugins/Packages used
+> None
+
+## Authors
+
+>  [**Aman Negi**](https://github.com/AmanNegi) - *Initial work*
+
+
+## Feel Free to Contract
+
+* Gmail : akuro787898@gmail.com
+* Facebook : https://www.facebook.com/flyWithFlutter
+
+
