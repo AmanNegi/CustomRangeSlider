@@ -38,6 +38,7 @@ class _MyAppState extends State<MyApp> {
                 max: 10000,
                 min: 100,
                 divisions: 6,
+                //? If you dont want the popping labels comment the label parameter
                 labels: RangeLabels("\$  ${_values.start.round()}",
                     "\$  ${_values.end.round()}"),
                 values: _values,
